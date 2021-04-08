@@ -1470,7 +1470,7 @@ repositories:
       url: https://github.com/Achllle/dual_quaternions_ros-release.git
       version: 0.1.4-1
     status: maintained
-  dynamic-graph:
+  dynamic_graph:
     doc:
       type: git
       url: https://github.com/stack-of-tasks/dynamic-graph.git
@@ -1486,7 +1486,7 @@ repositories:
       url: https://github.com/stack-of-tasks/dynamic-graph.git
       version: devel
     status: maintained
-  dynamic-graph-python:
+  dynamic_graph_python:
     doc:
       type: git
       url: https://github.com/stack-of-tasks/dynamic-graph-python.git
@@ -1502,7 +1502,7 @@ repositories:
       url: https://github.com/stack-of-tasks/dynamic-graph-python.git
       version: devel
     status: maintained
-  dynamic-graph-tutorial:
+  dynamic_graph_tutorial:
     doc:
       type: git
       url: https://github.com/stack-of-tasks/dynamic-graph-tutorial.git
